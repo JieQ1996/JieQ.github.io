@@ -17,7 +17,10 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+# Site settings
+title: QJ Blog             # 你的博客网站标题
+SEOTitle: QJ Blog			# 在后面会详细谈到
+description: "Cool Blog"    # 随便说点，描述一下
 1. Numbered
 2. List
 
