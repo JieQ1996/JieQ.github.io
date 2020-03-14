@@ -8,7 +8,6 @@
 # Site settings
 title: smart groundhog
 email: jqian1996@gmail.com
-url: "http://smartgroundhog.cn" # the base hostname & protocol for your site
 github_username:  JieQ1996
 theme: jekyll-theme-architect
 
