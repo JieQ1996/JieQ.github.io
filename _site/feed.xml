@@ -3,11 +3,34 @@
   <channel>
     <title>smart groundhog</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Mar 2020 14:10:06 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Mar 2020 14:10:06 +0800</lastBuildDate>
+    <link>http://smartgroundhog.cn/SmartGroungHog/</link>
+    <atom:link href="http://smartgroundhog.cn/SmartGroungHog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 Mar 2020 20:15:24 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2020 20:15:24 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to smart groundhog&#39;s world!</title>
+        <description>&lt;p&gt;欢迎大家来到机智的土拨鼠的世界，这是我的第一篇测试博客，目前博客网站刚开始搭建，只是一个毛胚，接下来我也会对网站进行”装修”,大家敬请期待吧。。。
+准备写博客已经是半年前的事了，本来只是打算去申请个帐号然后定期更新自己学习到的内容，分享分享个人经历，结果就拖了半年还没开工。偶然机会得知可以利用&lt;code class=&quot;highlighter-rouge&quot;&gt;github&lt;/code&gt;来搭建属于自己的博客网站，也是三个月前了。疫情期间，由于需要用到&lt;code class=&quot;highlighter-rouge&quot;&gt;github&lt;/code&gt;来托管代码，学习了一波上传管理的手段，趁此机会也拿创建博客网站来练练手。遂百度查教程查资料，但就目前我寻找得到的结果来看，好像没有很详细的教你如何自己一步一步搭建，而是教你&lt;code class=&quot;highlighter-rouge&quot;&gt;fork&lt;/code&gt;别人的项目，然后慢慢改参数，但这并不是我想要的结果啊～于是一个每接触过网站开发的小白，对着别人的模板一点一点的啃食笑话，值得庆幸的是 [jekyll docs][jekyll-docs] 非常详细，而且还有中文版，结合 [github help][github-help] ，经过三天（每天大概下午两个小时的有效时间），将阿里云上购买的域名成功关联上建好的网站上。抄袭了模板上的&lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt;内容，勉强能较好的排列文章。但好像插入图片有些问题，现在网站空空如也，有些枯燥，但是暂时也不会对外开放，等完全建好了，至少能看得过去了再公之于众，嘻嘻。希望自己能保持写博客文章吧，虽然自己最讨厌的就是写作相关的，但是这也无可奈何，硬着头皮上吧。
+这里是有理想有抱负的有志土拨鼠，人懒话不多，文静的外皮表之下藏着一个等待被安抚和发掘的心。没错，那就是闷骚！
+大家江湖有缘再见。
+啊～～～～～～
+  啊～～～～～～ 
+    啊～～～～～～
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[github-help]: https://help.github.com/cn&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Mar 2020 19:41:35 +0800</pubDate>
+        <link>http://smartgroundhog.cn/SmartGroungHog/first/blog/2020/03/15/welcome-to-groundhog's-world.html</link>
+        <guid isPermaLink="true">http://smartgroundhog.cn/SmartGroungHog/first/blog/2020/03/15/welcome-to-groundhog's-world.html</guid>
+        
+        
+        <category>first</category>
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -27,8 +50,8 @@
 
 </description>
         <pubDate>Fri, 13 Mar 2020 14:26:35 +0800</pubDate>
-        <link>/jekyll/update/2020/03/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2020/03/13/welcome-to-jekyll.html</guid>
+        <link>http://smartgroundhog.cn/SmartGroungHog/jekyll/update/2020/03/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://smartgroundhog.cn/SmartGroungHog/jekyll/update/2020/03/13/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
