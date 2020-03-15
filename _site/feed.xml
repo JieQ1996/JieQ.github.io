@@ -3,10 +3,10 @@
   <channel>
     <title>smart groundhog</title>
     <description></description>
-    <link>http://smartgroundhog.cn/SmartGroungHog/</link>
-    <atom:link href="http://smartgroundhog.cn/SmartGroungHog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Mar 2020 20:15:24 +0800</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2020 20:15:24 +0800</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 Mar 2020 20:51:54 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2020 20:51:54 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -22,8 +22,8 @@
 [github-help]: https://help.github.com/cn&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Mar 2020 19:41:35 +0800</pubDate>
-        <link>http://smartgroundhog.cn/SmartGroungHog/first/blog/2020/03/15/welcome-to-groundhog's-world.html</link>
-        <guid isPermaLink="true">http://smartgroundhog.cn/SmartGroungHog/first/blog/2020/03/15/welcome-to-groundhog's-world.html</guid>
+        <link>/first/blog/2020/03/15/welcome-to-groundhog's-world.html</link>
+        <guid isPermaLink="true">/first/blog/2020/03/15/welcome-to-groundhog's-world.html</guid>
         
         
         <category>first</category>
@@ -50,8 +50,8 @@
 
 </description>
         <pubDate>Fri, 13 Mar 2020 14:26:35 +0800</pubDate>
-        <link>http://smartgroundhog.cn/SmartGroungHog/jekyll/update/2020/03/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://smartgroundhog.cn/SmartGroungHog/jekyll/update/2020/03/13/welcome-to-jekyll.html</guid>
+        <link>/jekyll/update/2020/03/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/jekyll/update/2020/03/13/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

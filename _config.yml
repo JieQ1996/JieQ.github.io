@@ -7,12 +7,12 @@
 
 # Site settings
 title: smart groundhog
-header-img: img/home-bg.jpg
+#header-img: img/home-bg.jpg
 email: jqian1996@gmail.com
-baseurl: "/SmartGroungHog" # the subpath of your site, e.g. /blog
+#baseurl: "/SmartGroungHog" # the subpath of your site, e.g. /blog
 #url: "http://smartgroundhog.cn" # the base hostname & protocol for your site
 github_username:  JieQ1996
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 
 
 # Build settings

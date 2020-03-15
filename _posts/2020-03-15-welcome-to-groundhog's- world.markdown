@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to smart groundhog's world!"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle: " \"Hello World, Hello Blog\""
 date:   2020-03-15 19:41:35 +0800
 author:     "JieQ"
 categories: first blog
